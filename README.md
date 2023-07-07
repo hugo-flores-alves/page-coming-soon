@@ -1,1 +1,1 @@
-Projeto feito para praticar front-end.
+Project made to practice Front-end.
